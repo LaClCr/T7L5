@@ -11,4 +11,5 @@
 14-B
 15-D
 16-D
-17-A
+17-A (son 64 subredes, no 62)
+18-128 subredes, 510 hosts (respuesta entre la a y la b);
